@@ -5,13 +5,15 @@
 
 # contents
 
-- it has five pages of html files 
+- It is a man rings company website specilized in Yemeni Akik Rings .
+- The web site has 5 HTML pages with some CSS codes. 
+- The sections of the pages are Home, Team, Gallery, abut Yemeni Rings, New Collection and Contact.  
 
-# Reach 
+# Reach the page  
 
 http://raheebrings.freevar.com/index.html
 
 
 # Author 
 
-@Wahib-eng
+Coded by @Wahib-eng
